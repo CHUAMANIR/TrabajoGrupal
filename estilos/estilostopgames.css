@@ -21,7 +21,7 @@
     bottom: 0;
     color: white
     ;
-    background: linear-gradient(rgba(255,255,255,0), rgba(0,0,0,1));
+    background: linear-gradient(rgba(255,255,255,0), rgba(17, 17, 17, 0.87));
     width: 100%;
     margin: 0px;
     padding: 10px;
@@ -31,4 +31,14 @@
     color: seagreen;
     float: right;
 
+}
+section{
+    width: 935px;
+    height: 1635px;
+    margin-left: 0px;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0%;
+    -webkit-box-shadow: 0px 0px 10px 5px
 }
