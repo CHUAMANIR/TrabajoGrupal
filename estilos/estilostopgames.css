@@ -22,10 +22,10 @@
     color: white
     ;
     background: linear-gradient(rgba(255,255,255,0), rgba(17, 17, 17, 0.87));
-    width: 100%;
+    width: 98.5%;
     margin: 0px;
     padding: 10px;
-    font-size: 50px;
+    font-size: 25px;
 }
 .gallery-container p{
     color: seagreen;
