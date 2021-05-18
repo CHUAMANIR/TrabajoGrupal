@@ -117,3 +117,88 @@ footer{
     background: rgb(0, 0, 0, 0.8);
     border-bottom: 1px solid #fff;
 }
+#c{
+    float: left;
+    width: 70%;
+   min-height: 600px;
+
+}
+#d{
+    float: left;
+    width: calc(30% - 30px);
+    min-height: 600px;
+    padding: 15px;
+}
+#p{
+    background-color: white;
+    width: 237px;
+      
+}
+#n{
+    
+     width: 100PX;
+
+}
+#z{
+   
+    width: 100px;
+}
+#f{
+    height: 20px;
+    
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
