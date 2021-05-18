@@ -4,7 +4,13 @@
     grid-auto-rows: 150px;
     padding: 20px;
     grid-gap: 10px;
+    float: left;
 }
+
+
+
+
+
 .gallery__item{
     position: relative;
 }
